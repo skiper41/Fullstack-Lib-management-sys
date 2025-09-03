@@ -29,7 +29,7 @@ And librarians to:
 ---
 
 ## 🌍 Deployed App  
-- **Frontend**: bookworm-lib-app.netlify.app 
+- **Frontend**: https://bookworm-lib-app.netlify.app 
 - **Backend**: https://library-management-system-1-5z1a.onrender.com  
 - **Database**: MongoDB Compass / Atlas
 
